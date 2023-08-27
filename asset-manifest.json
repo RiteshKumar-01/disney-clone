@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RiteshKumar-01/disney-clone/static/css/main.165bbc1d.css",
+    "main.js": "/RiteshKumar-01/disney-clone/static/js/main.9222ae54.js",
+    "index.html": "/RiteshKumar-01/disney-clone/index.html",
+    "main.165bbc1d.css.map": "/RiteshKumar-01/disney-clone/static/css/main.165bbc1d.css.map",
+    "main.9222ae54.js.map": "/RiteshKumar-01/disney-clone/static/js/main.9222ae54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165bbc1d.css",
+    "static/js/main.9222ae54.js"
+  ]
+}
